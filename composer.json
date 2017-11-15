@@ -11,11 +11,14 @@
             "role": "Developer"
         }
     ],
+    "replaces": {
+        "intelogie/ckeditor-codemirror": "*"
+    },
     "type": "drupal-library",
     "license": "GPL-3.0",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dist": {
-        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.3.zip",
+        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.4.zip",
         "type": "zip"
     }
 }
