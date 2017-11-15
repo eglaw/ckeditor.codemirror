@@ -1,11 +1,21 @@
 {
     "name": "egorlaw/ckeditor_codemirror",
     "description": "Composer wrapper for CKEditor Codemirror plugin",
+    "keywords": ["javascript", "ckeditor", "plugin", "text-highlight"],
+    "homepage": "https://github.com/egorlaw/ckeditor.codemirror",
+    "authors": [
+        {
+            "name": "Egor Guriyanov",
+            "email": "egorlaw@gmail.com",
+            "homepage": "https://github.com/egorlaw",
+            "role": "Developer"
+        }
+    ],
     "type": "drupal-library",
     "license": "GPL-3.0",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dist": {
-        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.2.zip",
+        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.3.zip",
         "type": "zip"
     }
 }
