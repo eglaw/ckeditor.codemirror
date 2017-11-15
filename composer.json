@@ -1,9 +1,11 @@
 {
     "name": "egorlaw/ckeditor_codemirror",
+    "description": "Composer wrapper for CKEditor Codemirror plugin",
     "type": "drupal-library",
-    "version": "1.0.1",
+    "license": "GPL-3.0",
+    "version": "1.0.2",
     "dist": {
-        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.1.zip",
+        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.2.zip",
         "type": "zip"
     }
 }
