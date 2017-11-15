@@ -1,9 +1,9 @@
 {
     "name": "egorlaw/ckeditor_codemirror",
     "type": "drupal-library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dist": {
-        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.0.zip",
+        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.1.zip",
         "type": "zip"
     }
 }
