@@ -15,10 +15,10 @@
         "intelogie/ckeditor-codemirror": "*"
     },
     "type": "drupal-library",
-    "license": "GPL-3.0",
-    "version": "1.0.4",
+    "license": "MIT",
+    "version": "1.0.5",
     "dist": {
-        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.4.zip",
+        "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.5.zip",
         "type": "zip"
     }
 }
