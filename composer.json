@@ -16,7 +16,7 @@
     },
     "type": "drupal-library",
     "license": "MIT",
-    "version": "1.0.5",
+    "version": "2.0.0",
     "dist": {
         "url": "https://github.com/egorlaw/ckeditor_codemirror/archive/1.0.5.zip",
         "type": "zip"
